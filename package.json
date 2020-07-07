@@ -1,0 +1,14 @@
+{
+  "name": "mapbox",
+  "version": "1.0.0",
+  "description": "this a project helping me understand how map box works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "johnson",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^7.15.5"
+  }
+}
